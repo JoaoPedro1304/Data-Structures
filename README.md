@@ -1,2 +1,1 @@
-# Data-Structure-C-
-Data Structure Implementations in C++
+## Data Structure Implementations in C++
